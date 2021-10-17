@@ -11,6 +11,9 @@
     <color name="primary_blue">#244B6E</color>
     <color name="darker_blue">#07256E</color>
     <color name="background_blue">#EFECFB</color>
-    <color name="color_worst_tip">#DC1E0B</color>
-    <color name="color_best_tip">#35BA01</color>
+    <color name="color_worst_tip">#CC6E92</color>
+    <color name="color_best_tip">#00C798</color>
+    <color name="custom_primary">#CD7CBF</color>
+    <color name="custom_secondary">#FFE1B5</color>
+    <color name="custom_background">#F5E2F3</color>
 </resources>
