@@ -22,11 +22,11 @@ The following **extensions** are implemented:
 
 ## Video Walkthrough
 
-Here's a walkthrough of implemented user stories:
+Here's a walkthrough of implemented functionality:
 
 <img src='https://i.imgur.com/Un9f0l4.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-GIF created with QuickTime Player and [CloudConvert] https://cloudconvert.com/mov-to-gif.
+GIF created with QuickTime Player and [CloudConvert](https://cloudconvert.com/mov-to-gif).
 
 ## Notes
 
