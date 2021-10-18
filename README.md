@@ -18,7 +18,7 @@ The following **required** functionality is completed:
 The following **extensions** are implemented:
 
 * [x] Custom colors palette selected
-* [x] Replaced tip quality messages with emojis
+* [x] Replaced tip quality text with emojis
 
 ## Video Walkthrough
 
@@ -26,11 +26,11 @@ Here's a walkthrough of implemented functionality:
 
 <img src='https://i.imgur.com/Un9f0l4.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-GIF created with QuickTime Player and [CloudConvert](https://cloudconvert.com/mov-to-gif).
+GIF created with [QuickTime Player](https://support.apple.com/downloads/quicktime) and [CloudConvert](https://cloudconvert.com/mov-to-gif).
 
 ## Notes
 
-- Had some issues with a Kotlin version mismatch, but resolved them in OH.
+- Had some issues with a Kotlin version mismatch, but resolved them in office hours.
 
 ## License
 
